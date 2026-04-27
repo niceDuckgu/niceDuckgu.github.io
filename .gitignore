@@ -3,3 +3,6 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# 로컬 전용 메모 (git에 올리지 않음)
+NOTES.md
